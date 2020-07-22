@@ -26,6 +26,7 @@ document.querySelector(".js-userinput").addEventListener('click',function (e) {
 
 /* 2. do the data stuff with the API */
 
+
 var url = "http://api.giphy.com/v1/gifs/search?q=funny+cat&api_key=dc6zaTOxFJmzC";
 
 // AJAX Request
@@ -41,6 +42,8 @@ GiphyAjaxCall.addEventListener('load',function (e) {
 });
 
 /* 3. Show me the GIFs */
+
+
 function pushToDOM(input) {
 
   var container = document.querySelector("js-container");
