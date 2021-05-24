@@ -2,7 +2,8 @@
 
 ## With GiphySearch you can get any gif image you want
 To get your Gif just type the word to search in the text box
-![Screenshoot](GiphySearch/screenshot/screenshot.png)
+![Screenshot (284)](https://user-images.githubusercontent.com/53443872/119402779-0ca6c000-bcfb-11eb-93a9-3d6c022e71db.png)
+
 
 ### GiphySearch make use of [GIPHY](https://developers.giphy.com/)
 
